@@ -1,0 +1,14 @@
+# full_yk673v6_lwg62_64-user 11 RP1A.200720.011 p1k61v164bspP13 release-keys
+- manufacturer: teracube
+- platform: mt6765
+- codename: Teracube_2e
+- flavor: full_zirconia-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: 202111011925
+- tags: release-keys
+- fingerprint: Teracube/Teracube_2e/Teracube_2e:11/RP1A.200720.011/202111011925:user/release-keys
+- is_ab: false
+- brand: Teracube
+- branch: full_yk673v6_lwg62_64-user-11-RP1A.200720.011-p1k61v164bspP13-release-keys
+- repo: teracube_teracube_2e_dump
